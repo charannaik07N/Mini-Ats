@@ -1,0 +1,45 @@
+import React from "react";
+import { GoogleLogin } from "@react-oauth/google";
+import { useNavigate } from "react-router-dom";
+
+export function Landing() {
+  const navigate = useNavigate();
+
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
+      <div className="bg-white rounded-2xl shadow-xl p-8 max-w-md w-full text-center">
+        <h1 className="text-3xl font-bold text-gray-900 mb-2">
+          Welcome to Honest-AI Recorder
+        </h1>
+
+        <p className="text-gray-600 mb-8">
+          Sign in with Google to start recording screen, video, and voice all in
+          one place
+        </p>
+
+        <div className="flex justify-center">
+          <GoogleLogin
+            onSuccess={(credentialResponse) => {
+              console.log("Google Login Success:", credentialResponse);
+              // You can save the credential if needed
+              localStorage.setItem(
+                "googleCredential",
+                JSON.stringify(credentialResponse)
+              );
+              navigate("/kanban");
+            }}
+            onError={(error) => {
+              console.error("Google Login Failed:", error);
+            }}
+            theme="outline"
+            size="large"
+          />
+        </div>
+
+        <div className="mt-6 text-xs text-gray-500">
+          By signing in, you agree to our terms of service
+        </div>
+      </div>
+    </div>
+  );
+}
