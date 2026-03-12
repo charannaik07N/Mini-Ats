@@ -7,3 +7,4 @@
 [2026-03-10T15:06:02.284Z] add CORS configuration for new frontend domain
 [2026-03-11T03:49:19.476Z] fix flaky test caused by timing dependency
 [2026-03-11T07:22:51.231Z] add architecture decision records
+[2026-03-12T04:28:05.682Z] split build and test stages for faster feedback
