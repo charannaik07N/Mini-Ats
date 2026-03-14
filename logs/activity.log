@@ -13,3 +13,4 @@
 [2026-03-13T05:07:20.741Z] fix flaky build caused by parallel test collision
 [2026-03-13T13:16:46.024Z] fix flaky build caused by parallel test collision
 [2026-03-14T08:01:59.897Z] optimize JSON serialization for large payloads
+[2026-03-14T13:33:10.349Z] fix edge case when input array is empty
