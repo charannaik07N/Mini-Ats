@@ -1,2 +1,3 @@
 [2026-03-16T09:50:33.125Z] add snapshot tests for response formats
 [2026-03-17T10:40:49.382Z] validate error responses match schema
+[2026-03-17T11:30:11.086Z] simplify state management in scheduler
