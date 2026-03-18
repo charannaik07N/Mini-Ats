@@ -4,3 +4,4 @@
 [2026-03-17T13:56:24.084Z] add unit tests for input validation
 [2026-03-18T07:41:27.688Z] reorganize file structure for better discoverability
 [2026-03-18T11:12:24.564Z] move business logic out of controller
+[2026-03-18T13:07:28.062Z] handle missing env variable gracefully
