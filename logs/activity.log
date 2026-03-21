@@ -12,3 +12,4 @@
 [2026-03-20T04:16:52.635Z] introduce dark mode toggle
 [2026-03-20T10:07:34.119Z] update error messages to be more user-friendly
 [2026-03-20T13:50:57.977Z] audit and fix npm security vulnerabilities
+[2026-03-21T05:01:24.294Z] add real-time status updates via SSE
