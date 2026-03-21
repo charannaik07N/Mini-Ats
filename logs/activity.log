@@ -17,3 +17,4 @@
 [2026-03-21T06:10:53.446Z] fix CSS overflow issue on mobile viewport
 [2026-03-21T10:16:56.509Z] bugretry logic was skipping last attempt
 [2026-03-21T12:52:53.392Z] fix token refresh not updating stored credentials
+[2026-03-21T13:03:40.007Z] support CSV and JSON export formats
