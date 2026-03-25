@@ -3,3 +3,4 @@
 [2026-03-24T16:54:38.613Z] update prettier config for consistency
 [2026-03-25T10:26:44.502Z] reduce memory footprint of worker threads
 [2026-03-25T13:20:59.395Z] fix edge case when input array is empty
+[2026-03-25T15:55:06.257Z] fix incorrect status code for validation errors
