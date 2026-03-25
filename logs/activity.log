@@ -1,3 +1,4 @@
 [2026-03-23T10:35:38.368Z] fix incorrect timestamp parsing for UTC dates
 [2026-03-24T12:19:51.956Z] clean up orphaned database migration files
 [2026-03-24T16:54:38.613Z] update prettier config for consistency
+[2026-03-25T10:26:44.502Z] reduce memory footprint of worker threads
