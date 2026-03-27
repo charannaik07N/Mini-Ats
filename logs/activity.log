@@ -6,3 +6,4 @@
 [2026-03-25T15:55:06.257Z] fix incorrect status code for validation errors
 [2026-03-26T16:29:53.984Z] resolve merge conflicts after rebase
 [2026-03-26T16:58:54.776Z] fix memory spike during large file uploads
+[2026-03-27T06:29:15.358Z] update nginx reverse proxy configuration
