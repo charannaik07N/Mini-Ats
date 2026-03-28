@@ -8,3 +8,4 @@
 [2026-03-26T16:58:54.776Z] fix memory spike during large file uploads
 [2026-03-27T06:29:15.358Z] update nginx reverse proxy configuration
 [2026-03-27T10:57:52.542Z] update API documentation with new endpoints
+[2026-03-28T07:01:03.029Z] configure log rotation for production
