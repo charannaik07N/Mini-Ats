@@ -1,3 +1,4 @@
 [2026-03-30T12:28:26.125Z] extract common utilities into shared helper
 [2026-03-31T06:38:10.027Z] improve startup time by deferring non-critical init
 [2026-03-31T07:08:08.153Z] implement input sanitization middleware
+[2026-03-31T15:34:16.678Z] fix memory leak in event listener cleanup
