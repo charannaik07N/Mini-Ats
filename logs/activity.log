@@ -7,3 +7,4 @@
 [2026-04-01T09:47:57.917Z] add missing type definitions for third-party module
 [2026-04-01T16:14:41.223Z] extract common utilities into shared helper
 [2026-04-02T06:35:05.687Z] patch XSS vulnerability in form input
+[2026-04-02T08:22:33.314Z] fix incorrect status code for validation errors
