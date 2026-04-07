@@ -5,3 +5,4 @@
 [2026-04-07T04:21:22.672Z] handle undefined response from external API
 [2026-04-07T11:27:49.076Z] configure auto-deploy for staging branch
 [2026-04-07T12:40:58.619Z] extract common utilities into shared helper
+[2026-04-07T15:14:14.561Z] add usage examples to README
