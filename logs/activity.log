@@ -8,3 +8,4 @@
 [2026-04-07T15:14:14.561Z] add usage examples to README
 [2026-04-08T04:21:02.767Z] document database migration process
 [2026-04-09T12:05:05.673Z] fix broken image paths in production build
+[2026-04-09T12:34:31.024Z] implement input sanitization middleware
