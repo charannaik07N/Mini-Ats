@@ -16,3 +16,4 @@
 [2026-04-10T11:30:56.035Z] optimize database query with proper indexing
 [2026-04-11T08:00:39.278Z] align object properties for readability
 [2026-04-11T12:44:32.461Z] implement input sanitization middleware
+[2026-04-11T16:58:23.825Z] clarify deployment steps in README
