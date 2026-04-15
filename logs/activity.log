@@ -4,3 +4,4 @@
 [2026-04-14T04:43:18.867Z] add tests for rate limiter logic
 [2026-04-14T07:27:14.297Z] optimize JSON serialization for large payloads
 [2026-04-14T14:35:38.258Z] enable parallel test execution in pipeline
+[2026-04-15T05:22:02.641Z] refactor error handling to use custom error classes
