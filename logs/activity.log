@@ -7,3 +7,4 @@
 [2026-04-15T05:22:02.641Z] refactor error handling to use custom error classes
 [2026-04-16T04:13:30.846Z] consolidate duplicate API call patterns
 [2026-04-16T07:47:11.939Z] optimize image loading with lazy initialization
+[2026-04-16T11:10:41.325Z] update changelog for v2.1 release
