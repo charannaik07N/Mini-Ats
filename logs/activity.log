@@ -12,3 +12,4 @@
 [2026-04-17T08:58:25.239Z] document database migration process
 [2026-04-17T10:37:37.143Z] refactor config loading to support multiple envs
 [2026-04-17T14:28:32.011Z] remove polyfills no longer needed
+[2026-04-17T15:32:35.129Z] update README with setup instructions
