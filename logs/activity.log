@@ -10,3 +10,4 @@
 [2026-04-16T11:10:41.325Z] update changelog for v2.1 release
 [2026-04-17T08:48:48.697Z] decouple logging from business logic
 [2026-04-17T08:58:25.239Z] document database migration process
+[2026-04-17T10:37:37.143Z] refactor config loading to support multiple envs
