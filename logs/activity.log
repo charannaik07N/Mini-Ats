@@ -13,3 +13,4 @@
 [2026-04-17T10:37:37.143Z] refactor config loading to support multiple envs
 [2026-04-17T14:28:32.011Z] remove polyfills no longer needed
 [2026-04-17T15:32:35.129Z] update README with setup instructions
+[2026-04-18T03:45:53.175Z] split build and test stages for faster feedback
