@@ -15,3 +15,4 @@
 [2026-04-17T15:32:35.129Z] update README with setup instructions
 [2026-04-18T03:45:53.175Z] split build and test stages for faster feedback
 [2026-04-18T11:55:03.849Z] add snapshot tests for response formats
+[2026-04-18T14:43:02.150Z] reduce bundle size by tree-shaking unused imports
