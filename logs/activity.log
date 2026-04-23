@@ -2,3 +2,4 @@
 [2026-04-20T05:03:33.293Z] bugretry logic was skipping last attempt
 [2026-04-21T04:25:18.599Z] add search with debounced input
 [2026-04-22T04:45:56.053Z] simplify state management in scheduler
+[2026-04-23T07:45:13.935Z] fix incorrect status code for validation errors
