@@ -6,3 +6,4 @@
 [2026-04-29T04:27:34.752Z] correct off-by-one error in pagination logic
 [2026-04-29T16:49:51.583Z] add troubleshooting section to docs
 [2026-04-29T19:47:26.779Z] replace callback pattern with async/await
+[2026-04-29T19:58:02.287Z] patch XSS vulnerability in form input
