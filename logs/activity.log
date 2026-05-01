@@ -10,3 +10,4 @@
 [2026-04-29T20:07:27.695Z] extract magic numbers into named constants
 [2026-04-29T20:15:36.907Z] update README with setup instructions
 [2026-05-01T09:26:47.878Z] fix edge case when input array is empty
+[2026-05-01T11:04:37.623Z] update API rate limit documentation
