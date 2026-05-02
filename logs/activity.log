@@ -12,3 +12,4 @@
 [2026-05-01T09:26:47.878Z] fix edge case when input array is empty
 [2026-05-01T11:04:37.623Z] update API rate limit documentation
 [2026-05-01T12:35:03.223Z] add retry mechanism with exponential backoff
+[2026-05-02T04:47:30.057Z] patch XSS vulnerability in form input
