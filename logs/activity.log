@@ -2,3 +2,4 @@
 [2026-05-04T16:15:06.196Z] improve error code reference table
 [2026-05-05T06:39:26.328Z] correct off-by-one error in pagination logic
 [2026-05-05T07:54:30.598Z] add regression test for pagination bug
+[2026-05-05T11:32:38.997Z] sync package-lock after merge
