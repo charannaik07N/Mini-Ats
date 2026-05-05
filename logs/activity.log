@@ -3,3 +3,4 @@
 [2026-05-05T06:39:26.328Z] correct off-by-one error in pagination logic
 [2026-05-05T07:54:30.598Z] add regression test for pagination bug
 [2026-05-05T11:32:38.997Z] sync package-lock after merge
+[2026-05-05T12:27:14.160Z] update ESLint config with stricter rules
