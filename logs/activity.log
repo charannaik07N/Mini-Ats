@@ -12,3 +12,4 @@
 [2026-05-06T13:08:52.028Z] update seed data for local development
 [2026-05-06T16:48:26.037Z] clean up orphaned database migration files
 [2026-05-07T07:30:36.499Z] optimize startup sequence to reduce cold boot time
+[2026-05-07T13:55:29.889Z] clean up unused environment variables
