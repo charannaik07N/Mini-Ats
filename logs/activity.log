@@ -17,3 +17,4 @@
 [2026-05-09T12:39:55.841Z] add support for custom log levels
 [2026-05-09T15:07:02.255Z] update API documentation with new endpoints
 [2026-05-09T15:16:37.079Z] resolve null pointer in user validation
+[2026-05-09T15:26:48.074Z] fix memory leak in event listener cleanup
