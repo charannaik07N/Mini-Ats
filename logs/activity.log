@@ -1,3 +1,4 @@
 [2026-05-11T13:43:03.282Z] pin dependency versions for reproducible builds
 [2026-05-12T04:25:17.090Z] add request ID tracking for better debugging
 [2026-05-12T07:25:47.965Z] extract magic numbers into named constants
+[2026-05-12T10:57:50.999Z] resolve conflict between middleware handlers
