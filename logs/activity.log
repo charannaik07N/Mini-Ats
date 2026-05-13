@@ -3,3 +3,4 @@
 [2026-05-12T07:25:47.965Z] extract magic numbers into named constants
 [2026-05-12T10:57:50.999Z] resolve conflict between middleware handlers
 [2026-05-13T06:41:41.417Z] add troubleshooting section to docs
+[2026-05-13T11:35:00.459Z] add fallback for browsers without WebSocket support
