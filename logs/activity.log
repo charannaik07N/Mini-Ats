@@ -4,3 +4,4 @@
 [2026-05-12T10:57:50.999Z] resolve conflict between middleware handlers
 [2026-05-13T06:41:41.417Z] add troubleshooting section to docs
 [2026-05-13T11:35:00.459Z] add fallback for browsers without WebSocket support
+[2026-05-13T12:01:32.633Z] resolve infinite loop in recursive parser
