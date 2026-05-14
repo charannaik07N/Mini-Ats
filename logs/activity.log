@@ -6,3 +6,4 @@
 [2026-05-13T11:35:00.459Z] add fallback for browsers without WebSocket support
 [2026-05-13T12:01:32.633Z] resolve infinite loop in recursive parser
 [2026-05-13T16:34:22.750Z] add regression test for pagination bug
+[2026-05-14T06:05:00.929Z] extract magic numbers into named constants
