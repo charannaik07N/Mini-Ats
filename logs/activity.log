@@ -9,3 +9,4 @@
 [2026-05-14T06:05:00.929Z] extract magic numbers into named constants
 [2026-05-14T09:02:37.080Z] clean up orphaned database migration files
 [2026-05-15T08:18:34.552Z] update changelog for v2.1 release
+[2026-05-15T08:47:06.308Z] enforce single quotes across codebase
