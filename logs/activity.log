@@ -11,3 +11,4 @@
 [2026-05-15T08:18:34.552Z] update changelog for v2.1 release
 [2026-05-15T08:47:06.308Z] enforce single quotes across codebase
 [2026-05-15T10:01:01.720Z] refactor file upload handler for better testability
+[2026-05-15T11:18:17.629Z] fix flaky test caused by timing dependency
